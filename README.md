@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Furkannp
 - 👀 I’m interested in Web Applications
-- 🌱 I’m currently learning c#
 - 📫 How to reach me furkan.pala@hotmail.com
 
 <!---
